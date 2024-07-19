@@ -1,13 +1,3 @@
-<?php
-session_start();
-if (!isset($_SESSION['username'])) {
-    header("Location: ../index.php");
-    exit();
-}
-
-$username = $_SESSION['username'];
-$username = ucfirst(strtolower($username));
-?>
 
 <!DOCTYPE html>
 <html lang="en">
