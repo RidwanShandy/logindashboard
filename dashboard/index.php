@@ -48,7 +48,7 @@
             </header>
             <div class="profile-section">
                 <div class="profile-card">
-                    <h2>Halo, <?php echo htmlspecialchars($username); ?>.</h2>
+                    <h2>Halo, Ridwan.</h2>
                     <h4>Ini adalah tampilan Dashboard.</h4><br>
                     <div class="quick-links">
                         <h2>Isi Dashboard:</h2>
